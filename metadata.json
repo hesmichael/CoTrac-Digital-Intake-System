@@ -1,0 +1,7 @@
+{
+  "name": "CoTrac Digital Intake System",
+  "description": "A professional digital intake system for CoTrac Satellite Systems, featuring customer profiling, subscription renewal, and pre/post service reporting with signature capture.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
